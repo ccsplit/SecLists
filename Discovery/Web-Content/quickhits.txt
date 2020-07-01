@@ -1428,6 +1428,15 @@
 /installer/
 /install~/
 /invoker/JMXInvokerServlet
+/invoker/servlet
+/invoker/EJBInvokerServlet
+EJBInvokerServlet
+JMXInvokerServlet
+/sandbox-transformations/xpath/
+/sandbox-transformations/xslt/
+/sandbox-transformations/xpl/
+/sandbox-transformations/xquery/
+/xforms-sandbox/
 /ispmgr/
 /javax.faces.resource.../WEB-INF/web.xml.jsf
 /jdbc
